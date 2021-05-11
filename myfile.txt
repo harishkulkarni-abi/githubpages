@@ -1,3 +1,4 @@
 my file
 ading new line
 adding second new line
+This is third line
